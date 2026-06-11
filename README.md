@@ -8,6 +8,10 @@ This project analyzes retail sales data from a Superstore dataset to identify sa
 
 ![Dashboard](Superstore%20sales_Dashboard.png)
 
+## Interactive Dashboard
+
+[View Tableau Dashboard](https://public.tableau.com/views/SuperstoreSalesandProfitability_17812129098390/SuperstoreSalesProfitabilityDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Tools Used
 
 - Tableau Public
